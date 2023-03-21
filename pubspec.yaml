@@ -83,7 +83,7 @@ dependencies:
   logger: ^1.0.0
 
   # for making http calls
-  dio: ^4.0.0
+  dio: ^5.0.3
 
   # for local db
   hive: ^2.0.4
